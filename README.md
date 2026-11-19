@@ -11,3 +11,5 @@ Short notes a small team keeps in one place.
 ## Contact
 
 Ask in the team channel.
+
+See docs/changelog.md for what changed and when.
